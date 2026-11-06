@@ -1,0 +1,11 @@
+data/
+.test-data/
+node_modules/
+__pycache__/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.jsonl
+.env
+.env.*
+dist/
